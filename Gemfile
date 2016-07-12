@@ -10,6 +10,7 @@ gem 'bcrypt',         '3.1.11'
 gem 'sass-rails',   '5.0.2'
 gem 'uglifier',     '2.5.3'
 gem 'coffee-rails', '4.1.0'
+gem 'puma'
 #Use jquery easier with rails
 gem 'jquery-rails', '4.0.3'
 gem 'turbolinks',   '2.3.0'
